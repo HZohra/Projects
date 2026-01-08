@@ -1,3 +1,6 @@
+🔗 Full code repository:
+https://github.com/HZohra/Bitewise-fullstack
+
 # BiteWise — Dietary Restriction Meal Matcher
 
 BiteWise is a full-stack web application that helps users discover allergy-safe
@@ -84,5 +87,6 @@ CP317_Group2_FinalProject/
 │   └── package.json
 └── README.md
 
-🔗 Full code repository:
-https://github.com/HZohra/Bitewise-fullstack
+
+
+
